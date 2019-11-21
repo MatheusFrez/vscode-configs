@@ -1,0 +1,14 @@
+{
+	"files.trimTrailingWhitespace": true,
+	"window.zoomLevel": -1,
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"[javascript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"gitlens.hovers.currentLine.over": "line",
+	"terminal.integrated.shell.linux": "/bin/bash",
+	"editor.tabSize": 3,
+	"workbench.tree.indent": 15,
+	"editor.minimap.enabled": false,
+	"breadcrumbs.enabled": true
+}
